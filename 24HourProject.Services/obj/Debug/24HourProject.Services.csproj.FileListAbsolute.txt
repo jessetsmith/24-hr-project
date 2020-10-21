@@ -1,0 +1,16 @@
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\24HourProject.Services.dll.config
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\24HourProject.Services.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\24HourProject.Services.pdb
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\EntityFramework.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\EntityFramework.xml
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.csprojAssemblyReference.cache
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.dll
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.pdb
