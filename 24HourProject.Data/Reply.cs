@@ -8,15 +8,9 @@ using System.Threading.Tasks;
 
 namespace _24HourProject.Data
 {
-    public class Post
+    public class Reply : Comment
     {
-        [Key]
-        public int PostId { get; set; }
-        public string Title { get; set; }
         [Required]
-        public string Text { get; set; }
-        [Required]
-        [ForeignKey(nameof(User))]
-        public User Author { get; set; }
+        public Comment ReplyComment { get; set; }
     }
 }

@@ -1,21 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace _24HourProject.Data
 {
-    public class User
+    public class Like
     {
-        [Key]
-        public Guid UserId { get; set; }
         [Required]
-        public string Name { get; set; }
+        [ForeignKey(nameof(Post))]
+        public Post LikedPost { get; set; }
         [Required]
-        public string Email { get; set; }
-        [Required]
-        public string Password { get; set; }
+        [ForeignKey(nameof(User))]
+        public User Liker { get; set; }
     }
 }
