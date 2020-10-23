@@ -15,10 +15,10 @@ namespace _24HourProject.Data
         [Required]
         public string Text { get; set; }
         [Required]
-        [ForeignKey(nameof(User))]
+        //[ForeignKey(nameof(User))]
         public User Author { get; set; }
         [Required]
-        [ForeignKey(nameof(Post))]
+        //[ForeignKey(nameof(Post))]
         public Post CommentPost { get; set; }
     }
 }

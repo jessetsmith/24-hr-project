@@ -10,11 +10,13 @@ namespace _24HourProject.Data
 {
     public class Like
     {
+        [Key]
+        public int LikeId { get; set; }
         [Required]
-        [ForeignKey(nameof(Post))]
+        //[ForeignKey(nameof(Post))]
         public Post LikedPost { get; set; }
         [Required]
-        [ForeignKey(nameof(User))]
+        //[ForeignKey(nameof(User))]
         public User Liker { get; set; }
     }
 }

@@ -5,26 +5,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24HourProject.Data
+namespace _24HourProject.Models
 {
-    public class User
+    public class UserDetail
     {
-        [Key]
         public Guid UserId { get; set; }
-        [Required]
         public string Name { get; set; }
-        [Required]
         public string Email { get; set; }
-        [Required]
         public string Password { get; set; }
-        [Required]
-        public string ConfirmPassword { get; set; }
-        [Required]
+        [Display(Name = "Display")]
         public DateTime CreatedUtc { get; set; }
-
+        [Display(Name = "Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
 
-
-        //public ICollection<Post> Posts { get; set; }
     }
 }

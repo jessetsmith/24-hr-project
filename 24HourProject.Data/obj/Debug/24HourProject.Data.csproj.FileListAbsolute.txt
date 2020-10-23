@@ -33,3 +33,5 @@ C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\24
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\24HourProject.Data.dll
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.FirstMigration.resources
+C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
