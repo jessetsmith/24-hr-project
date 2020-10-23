@@ -20,5 +20,11 @@ namespace _24HourProject.Data
         [Required]
         [ForeignKey(nameof(Post))]
         public Post CommentPost { get; set; }
+
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
+
+        [ForeignKey(nameof(User))]
+        public Guid OwnerId { get; set; }
     }
 }

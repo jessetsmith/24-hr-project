@@ -12,5 +12,7 @@ namespace _24HourProject.Data
     {
         [Required]
         public Comment ReplyComment { get; set; }
+        [Required]
+        public int ReplyCommentId { get; set; }
     }
 }
