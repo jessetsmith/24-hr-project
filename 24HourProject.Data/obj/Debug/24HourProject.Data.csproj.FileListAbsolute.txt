@@ -68,3 +68,5 @@ C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.dll
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.migration1.resources
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
