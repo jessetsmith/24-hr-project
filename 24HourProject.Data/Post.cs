@@ -16,7 +16,7 @@ namespace _24HourProject.Data
         [Required]
         public string Text { get; set; }
         [Required]
-        [ForeignKey(nameof(User))]
         public User Author { get; set; }
+       
     }
 }
