@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace _24HourProject.Data
 {
     public class Comment
@@ -15,16 +14,15 @@ namespace _24HourProject.Data
         [Required]
         public string Text { get; set; }
         [Required]
-        [ForeignKey(nameof(User))]
-        public User Author { get; set; }
+        [ForeignKey(nameof(UserId))]
+        public virtual User Author { get; set; }
+        public int UserId { get; set; }
         [Required]
-        [ForeignKey(nameof(Post))]
-        public Post CommentPost { get; set; }
-
+        [ForeignKey(nameof(PostId))]
+        public virtual Post CommentPost { get; set; }
+        public int PostId { get; set; }
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
-
-        [ForeignKey(nameof(User))]
         public Guid OwnerId { get; set; }
     }
 }

@@ -84,14 +84,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comment.cs" />
     <Compile Include="IdentityModels.cs" />
+<<<<<<< HEAD
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reply.cs" />
+=======
+    <Compile Include="Like.cs" />
+<<<<<<< HEAD
+    <Compile Include="Migrations\Configuration.cs" />
+=======
+<<<<<<< HEAD
+=======
+    <Compile Include="Migrations\202010240153422_First Migration.cs" />
+    <Compile Include="Migrations\202010240153422_First Migration.Designer.cs">
+      <DependentUpon>202010240153422_First Migration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+>>>>>>> f74f3f3979e5487db6975661d87ce6d1c85d2a95
+    <Compile Include="Post.cs" />
+>>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
+    <Compile Include="Properties\AssemblyInfo.cs" />
+>>>>>>> 86734e5381753f72af4f7fde22dbc03b3df142bb
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202010240153422_First Migration.resx">
+      <DependentUpon>202010240153422_First Migration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
