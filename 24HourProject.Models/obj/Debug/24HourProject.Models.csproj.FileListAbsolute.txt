@@ -15,6 +15,27 @@ C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Models\obj\Debug\
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Models\obj\Debug\24HourProject.Models.dll
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Models\obj\Debug\24HourProject.Models.pdb
 <<<<<<< HEAD
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Data.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.csproj.CopyComplete
+=======
+<<<<<<< HEAD
 C:\Eleven Fifty Projects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.dll.config
 C:\Eleven Fifty Projects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.dll
 C:\Eleven Fifty Projects\24-hr-project\24HourProject.Models\bin\Debug\24HourProject.Models.pdb
@@ -55,3 +76,4 @@ C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Models\obj\Debug\24HourP
 C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.dll
 C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Models\obj\Debug\24HourProject.Models.pdb
 >>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
+>>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0

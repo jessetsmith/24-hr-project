@@ -69,6 +69,10 @@ C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.dll
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
+<<<<<<< HEAD
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.migration1.resources
+C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
+=======
 =======
 <<<<<<< HEAD
 C:\Eleven Fifty Projects\24-hr-project\24HourProject.Data\bin\Debug\24HourProject.Data.dll.config
@@ -146,3 +150,4 @@ C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Data\obj\Debug\_24HourPr
 C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
 >>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
 >>>>>>> 86734e5381753f72af4f7fde22dbc03b3df142bb
+>>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
