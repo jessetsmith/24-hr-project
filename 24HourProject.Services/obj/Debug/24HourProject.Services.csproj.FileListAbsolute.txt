@@ -14,6 +14,7 @@ C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debu
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.dll
 C:\Users\jtann\source\repos\24HourProject.WebAPI\24HourProject.Services\obj\Debug\24HourProject.Services.pdb
+<<<<<<< HEAD
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csprojAssemblyReference.cache
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.dll
@@ -36,3 +37,52 @@ C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\bin\D
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\DotNetProjects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+=======
+<<<<<<< HEAD
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.dll.config
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.pdb
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.pdb
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.dll.config
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.pdb
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.dll.config
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.xml
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csprojAssemblyReference.cache
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.dll
+C:\Eleven Fifty Projects\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.pdb
+=======
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csprojAssemblyReference.cache
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.pdb
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.dll.config
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Services.pdb
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.pdb
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Data.dll.config
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.pdb
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\24HourProject.Models.dll.config
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.xml
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jessesmith\Desktop\24-hr-project\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+>>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
+>>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0

@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace _24HourProject.Data
 {
     public class Comment
@@ -22,7 +21,6 @@ namespace _24HourProject.Data
         [ForeignKey(nameof(PostId))]
         public virtual Post CommentPost { get; set; }
         public int PostId { get; set; }
-
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
         public Guid OwnerId { get; set; }
