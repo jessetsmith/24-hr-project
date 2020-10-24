@@ -22,7 +22,7 @@ namespace _24HourProject.Services
             var entity =
                 new User()
                 {
-                    UserId = _userId,
+                    OwnerId = _userId,
                     Name = model.Name,
                     Email = model.Email,
                     Password = model.Password,
@@ -45,7 +45,7 @@ namespace _24HourProject.Services
                 var query =
                     ctx
                     .Users
-                    .Where(e => e.UserId == _userId)
+                    .Where(e => e.OwnerId == _userId)
                     .Select(
                         e =>
                         new UserListItem
@@ -101,7 +101,7 @@ namespace _24HourProject.Services
                 var entity =
                     ctx
                     .Users
-                    .Single(e => e.UserId == userId);
+                    .Single(e => e.OwnerId == userId);
 
                 ctx.Users.Remove(entity);
 

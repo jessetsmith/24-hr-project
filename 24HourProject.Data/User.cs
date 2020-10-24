@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace _24HourProject.Data
     public class User
     {
         [Key]
-        public Guid UserId { get; set; }
+        public int UserId { get; set; }
         [Required]
         public string Name { get; set; }
         [Required]
@@ -24,7 +25,9 @@ namespace _24HourProject.Data
 
         public DateTimeOffset? ModifiedUtc { get; set; }
 
-
-        //public ICollection<Post> Posts { get; set; }
+        [ForeignKey(nameof(Author))]
+        public ICollection<Post> Posts { get; set; }
+        public User Author { get; set; }
+        public Guid OwnerId { get; set; }
     }
 }
