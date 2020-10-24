@@ -54,19 +54,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="CommentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReplyCommentService.cs" />
-=======
-<<<<<<< HEAD
     <Compile Include="LikeService.cs" />
-=======
     <Compile Include="PostService.cs" />
->>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserService.cs" />
->>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -74,25 +68,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\24HourProject.Data\24HourProject.Data.csproj">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
       <Project>{e2029be8-9f9a-46ab-85a5-f072e7c09682}</Project>
       <Name>24HourProject.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\24HourProject.Models\24HourProject.Models.csproj">
       <Project>{6839c4b9-40f8-4fd3-a544-be525b0350ec}</Project>
-=======
->>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
       <Project>{E2029BE8-9F9A-46AB-85A5-F072E7C09682}</Project>
       <Name>24HourProject.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\24HourProject.Models\24HourProject.Models.csproj">
       <Project>{6839C4B9-40F8-4FD3-A544-BE525B0350EC}</Project>
-<<<<<<< HEAD
-=======
->>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
->>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
       <Name>24HourProject.Models</Name>
     </ProjectReference>
   </ItemGroup>
