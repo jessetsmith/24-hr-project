@@ -4,21 +4,17 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-namespace _24HourProject.Data
+
+namespace _24HourProject.Models
 {
-    public class Post
+    public class PostDetail
     {
-        [Key]
         public int PostId { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }
-        [Required]
-        [ForeignKey(nameof(UserId))]
-        public int Author { get; set; }
-        public virtual User UserId { get; set; }
-        [Required]
+        [Display(Name = "Created:")]
         public DateTimeOffset CreatedUtc { get; set; }
+        [Display(Name = "Modified:")]
         public DateTimeOffset? ModifiedUtc { get; set; }
-        public Guid OwnerId { get; set; }
     }
 }
