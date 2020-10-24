@@ -8,7 +8,7 @@ namespace _24HourProject.Models
 {
     public class UserListItem
     {
-        public Guid UserId { get; set; }
+        public int UserId { get; set; }
         public string Name { get; set; }
         public DateTime CreatedUtc { get; set; }
 

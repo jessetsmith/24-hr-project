@@ -22,7 +22,7 @@ namespace _24HourProject.Services
             var entity =
                 new Post()
                 {
-                    Author = _userId,
+                    OwnerId = _userId,
                     Title = model.Title,
                     Text = model.Text,
                     CreatedUtc = DateTimeOffset.Now
@@ -42,7 +42,7 @@ namespace _24HourProject.Services
                 var query =
                     ctx
                     .Posts
-                    .Where(e => e.Author == _userId)
+                    .Where(e => e.OwnerId == _userId)
                     .Select(
                         e =>
                         new PostListItem
@@ -63,7 +63,7 @@ namespace _24HourProject.Services
                 var entity =
                     ctx
                     .Posts
-                    .Single(e => e.PostId == id && e.Author == _userId);
+                    .Single(e => e.PostId == id && e.OwnerId == _userId);
                 return
                     new PostDetail
                     {
@@ -83,7 +83,7 @@ namespace _24HourProject.Services
                 var entity =
                     ctx
                     .Posts
-                    .Single(e => e.PostId == model.PostId && e.Author == _userId);
+                    .Single(e => e.PostId == model.PostId && e.OwnerId == _userId);
 
                 entity.Title = model.Title;
                 entity.Text = model.Text;
@@ -102,7 +102,7 @@ namespace _24HourProject.Services
                 var entity =
                     ctx
                     .Posts
-                    .Single(e => e.PostId == postId && e.Author == _userId);
+                    .Single(e => e.PostId == postId && e.OwnerId == _userId);
 
                 ctx.Posts.Remove(entity);
 

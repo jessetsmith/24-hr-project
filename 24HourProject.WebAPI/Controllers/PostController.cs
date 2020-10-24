@@ -17,7 +17,7 @@ namespace _24HourProject.WebAPI.Controllers
 
         private PostService CreatePostService()
         {
-            var userId = user.UserId;
+            var userId = user.OwnerId;
             var postService = new PostService(userId);
             return postService;
         }

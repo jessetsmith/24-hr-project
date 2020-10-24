@@ -8,20 +8,21 @@ using System.Threading.Tasks;
 
 namespace _24HourProject.Data
 {
-    public class Post
+    public class Comment
     {
         [Key]
-        public int PostId { get; set; }
-        public string Title { get; set; }
+        public int CommentId { get; set; }
         [Required]
         public string Text { get; set; }
         [Required]
         [ForeignKey(nameof(UserId))]
-        public int Author { get; set; }
-        public virtual User UserId { get; set; }
+        public virtual User Author { get; set; }
+        public int UserId { get; set; }
         [Required]
+        [ForeignKey(nameof(PostId))]
+        public virtual Post CommentPost { get; set; }
+        public int PostId { get; set; }
         public DateTimeOffset CreatedUtc { get; set; }
-
         public DateTimeOffset? ModifiedUtc { get; set; }
         public Guid OwnerId { get; set; }
     }
