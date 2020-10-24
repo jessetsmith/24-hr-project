@@ -16,7 +16,12 @@ namespace _24HourProject.Data
         [Required]
         public string Text { get; set; }
         [Required]
-        [ForeignKey(nameof(User))]
-        public User Author { get; set; }
+        [ForeignKey(nameof(UserId))]
+        public int Author { get; set; }
+        public virtual User UserId { get; set; }
+        [Required]
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
+        public Guid OwnerId { get; set; }
     }
 }
