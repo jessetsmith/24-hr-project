@@ -85,6 +85,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
+<<<<<<< HEAD
+    <Compile Include="Like.cs" />
+    <Compile Include="Migrations\202010232217398_migration1.cs" />
+    <Compile Include="Migrations\202010232217398_migration1.Designer.cs">
+      <DependentUpon>202010232217398_migration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Post.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reply.cs" />
+    <Compile Include="User.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reply.cs" />
+=======
     <Compile Include="Like.cs" />
 <<<<<<< HEAD
     <Compile Include="Migrations\Configuration.cs" />
@@ -100,14 +116,21 @@
     <Compile Include="Post.cs" />
 >>>>>>> 3d3e17d34de7ee57a7573e96d111c6cefd99ef3a
     <Compile Include="Properties\AssemblyInfo.cs" />
+>>>>>>> 86734e5381753f72af4f7fde22dbc03b3df142bb
+>>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <EmbeddedResource Include="Migrations\202010232217398_migration1.resx">
+      <DependentUpon>202010232217398_migration1.cs</DependentUpon>
+=======
     <EmbeddedResource Include="Migrations\202010240153422_First Migration.resx">
       <DependentUpon>202010240153422_First Migration.cs</DependentUpon>
+>>>>>>> 15a5f29ae5fe017ac17473f057c2ff16ae6a2ad0
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
